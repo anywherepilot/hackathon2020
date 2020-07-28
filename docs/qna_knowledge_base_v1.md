@@ -1,4 +1,4 @@
-# What are you trying to do today?
+# Get Started
 
 We can recommend you applications to do various tasks, such as describing something around you, or paying a bill!
 
@@ -40,8 +40,6 @@ You could use Google Maps or Apple Maps, which should be on your phone already, 
 Blind Alive is a recommended website that has free voice guided fitness sessions designed with accessibility in mind for people with limited vision. 
 
 Check them out at: https://www.blindalive.com/
-
-Learn all about Z on the [Wikipedia page for Z](https://en.wikipedia.org/wiki/Z).
 
 ## I'd like to meet new people
 
